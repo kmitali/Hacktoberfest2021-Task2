@@ -1,8 +1,14 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
-    font-size: 10px;
+    font-size: 20px;
+}
+
+.linear-gradient{
+  background: -webkit-linear-gradient(top,orange,white,white,green);
+              -webkit-background-clip:text;
+              -webkit-text-fill-color:transparent;
 }
